@@ -45,7 +45,7 @@ Prime CLI is the official command-line interface tool for managing Plane instanc
 ### Installation
 
 ```bash
-curl -sSL https://makeplane.github.io/prime-cli-v2/install.sh | bash
+curl -sSL https://prime-cli.plane.so/install.sh | bash
 ```
 
 After installation, reload your shell
